@@ -10,3 +10,10 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+# Ignore the Admin profile specifically
+**/profiles/Admin.profile-meta.xml
+**/profiles/**
+
+# Ignore the AppMenu / AppSwitcher
+**/appMenus/AppSwitcher.appMenu-meta.xml
