@@ -1,0 +1,70 @@
+{
+  "type" : "sfdc_cms__view",
+  "title" : "Projects",
+  "contentBody" : {
+    "component" : {
+      "children" : [ {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "componentSpacerSize" : "",
+            "layoutDirectionDesktop" : "row",
+            "layoutDirectionMobile" : "column",
+            "layoutDirectionTablet" : "column",
+            "maxContentWidth" : "",
+            "sectionColumnGutterWidth" : "",
+            "sectionConfig" : "{\"UUID\":\"2b573d36-bfdb-4080-a360-90c13bc3e5d2\",\"columns\":[{\"UUID\":\"92bfead4-159b-4fbf-bd1b-fbf321f04226\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":[]}]}",
+            "sectionMinHeight" : "",
+            "sectionVerticalAlign" : "flex-start"
+          },
+          "children" : [ {
+            "children" : [ {
+              "attributes" : {
+                "imageInfos" : "",
+                "richTextValue" : "<div style=\"display: block; clear: both; width: 100%; padding: 40px 0; margin: 10px 0;\">\n    <div style=\"padding: 0 30px; font-family: 'Segoe UI', Arial, sans-serif;\">\n        \n        <div style=\"text-align: center; margin-bottom: 40px;\">\n            <h2 style=\"color: #16325c; font-size: 2.2rem; margin: 0; display: inline-block; position: relative; padding-bottom: 10px;\">\n                Technical Projects\n                <span style=\"position: absolute; bottom: 0; left: 25%; width: 50%; height: 4px; background: #00A1E0; border-radius: 2px;\"></span>\n            </h2>\n            <p style=\"color: #54698d; font-size: 1.1rem; margin-top: 15px;\">\n                Showcasing custom-engineered Salesforce solutions and technical frameworks.\n            </p>\n        </div>\n\n        <div id=\"project-grid-placeholder\" style=\"min-height: 200px; border: 2px dashed #dddbda; border-radius: 12px; display: flex; align-items: center; justify-content: center; background: #fdfdfd;\">\n            <div style=\"text-align: center; color: #706e6b;\">\n                <p style=\"margin: 0; font-weight: 600;\">[ LWC Project Grid Slot ]</p>\n                <p style=\"font-size: 0.85rem; margin: 5px 0 0 0;\">The dynamic cards for Helios Grid and Recruitment ATS will appear here.</p>\n            </div>\n        </div>\n\n    </div>\n</div>"
+              },
+              "definition" : "community_builder:htmlEditor",
+              "id" : "b37aba6d-84b3-4dda-9b17-dcc4571f3dc5",
+              "type" : "component"
+            } ],
+            "id" : "92bfead4-159b-4fbf-bd1b-fbf321f04226",
+            "name" : "col1",
+            "title" : "Column 1",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "2b573d36-bfdb-4080-a360-90c13bc3e5d2",
+          "type" : "component"
+        } ],
+        "id" : "4e67125e-524d-4e24-a7e7-d75729271eba",
+        "name" : "content",
+        "title" : "Content",
+        "type" : "region"
+      }, {
+        "children" : [ {
+          "attributes" : {
+            "customHeadTags" : "",
+            "description" : "",
+            "pageTitle" : "Projects",
+            "recordId" : "{!recordId}"
+          },
+          "definition" : "community_builder:seoAssistant",
+          "id" : "0743d9bd-bf83-414f-8529-10270636e820",
+          "type" : "component"
+        } ],
+        "id" : "eb5da0bd-93d0-4e53-9a05-be890193d4b1",
+        "name" : "sfdcHiddenRegion",
+        "title" : "sfdcHiddenRegion",
+        "type" : "region"
+      } ],
+      "definition" : "community_layout:sldsFlexibleLayout",
+      "id" : "375cd258-a35b-4329-a478-35fb728e7e07",
+      "type" : "component"
+    },
+    "dataProviders" : [ ],
+    "themeLayoutType" : "Inner",
+    "viewType" : "custom-projects"
+  },
+  "urlName" : "projects"
+}
