@@ -162,10 +162,10 @@
             "children" : [ {
               "attributes" : {
                 "imageInfos" : "",
-                "richTextValue" : "<div style=\"padding: 40px 30px; font-family: 'Segoe UI', Arial, sans-serif; background: white; border-radius: 12px; border: 1px solid #e2e8f0; margin-bottom: 25px;\">\n    <h2 style=\"color: #16325c; font-size: 1.8rem; margin: 0 0 30px 0;\">Professional Experience</h2>\n    \n    <div style=\"border-left: 3px solid #00A1E0; padding-left: 20px; margin-bottom: 30px;\">\n        <h3 style=\"margin: 0; color: #16325c;\">Salesforce Developer</h3>\n        <p style=\"margin: 5px 0; color: #0070d2; font-weight: bold;\">KeelWorks Foundation | Oct 2025 – Present</p>\n        <ul style=\"color: #3e3e3c; margin-top: 10px;\">\n            <li>Built an automated Recruitment ATS using Flow Builder.</li>\n            <li>Managed ALM using Salesforce CLI and GitHub.</li>\n        </ul>\n    </div>\n</div>"
+                "richTextValue" : "<div style=\"display: block; clear: both; width: 100%; background: #16325c; color: white; padding: 60px 20px 20px 20px; font-family: 'Segoe UI', sans-serif; border-radius: 20px 20px 0 0; margin-top: 50px;\">\n    \n    <div style=\"display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; max-width: 1200px; margin: 0 auto;\">\n        \n        <div>\n            <div style=\"background: white; color: #16325c; padding: 5px 12px; border-radius: 4px; font-weight: 800; font-size: 1.1rem; display: inline-block; margin-bottom: 15px;\">\n                EZ <span style=\"color: #00A1E0;\">/&gt;</span>\n            </div>\n            <p style=\"font-size: 0.9rem; line-height: 1.6; color: #cbd5e1;\">\n                Salesforce Developer specializing in custom LWC development, Apex architecture, and automated business processes.\n            </p>\n            <div style=\"margin-top: 15px; display: flex; align-items: center; gap: 8px;\">\n                <div style=\"width: 10px; height: 10px; background: #22c55e; border-radius: 50%;\"></div>\n                <span style=\"font-size: 0.8rem; color: #22c55e; font-weight: 600;\">Open for Opportunities</span>\n            </div>\n        </div>\n\n        <div>\n            <h4 style=\"color: #00A1E0; margin-bottom: 20px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;\">Navigation</h4>\n            <ul style=\"list-style: none; padding: 0; margin: 0;\">\n                <li style=\"margin-bottom: 10px;\"><a href=\"/\" style=\"color: white; text-decoration: none; font-size: 0.9rem;\">Home</a></li>\n                <li style=\"margin-bottom: 10px;\"><a href=\"/experience\" style=\"color: white; text-decoration: none; font-size: 0.9rem;\">Experience & Certs</a></li>\n                <li style=\"margin-bottom: 10px;\"><a href=\"/projects\" style=\"color: white; text-decoration: none; font-size: 0.9rem;\">Technical Projects</a></li>\n            </ul>\n        </div>\n\n        <div>\n            <h4 style=\"color: #00A1E0; margin-bottom: 20px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;\">Connect</h4>\n            <div style=\"margin-bottom: 12px; font-size: 0.9rem;\">\uD83D\uDCE9 <a href=\"mailto:zapatacong@gmail.com\" style=\"color: white; text-decoration: none; margin-left: 8px;\">zapatacong@gmail.com</a></div>\n            <div style=\"margin-bottom: 12px; font-size: 0.9rem;\">\uD83D\uDD17 <a href=\"https://linkedin.com/in/ernest-cong-zapata\" style=\"color: white; text-decoration: none; margin-left: 8px;\">LinkedIn Profile</a></div>\n            <div style=\"font-size: 0.9rem;\">\uD83D\uDCBB <a href=\"https://github.com/zapatacong\" style=\"color: white; text-decoration: none; margin-left: 8px;\">GitHub Repository</a></div>\n        </div>\n    </div>\n\n    <div style=\"margin-top: 60px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; font-size: 0.8rem; color: #94a3b8;\">\n        &copy; 2026 Ernest Cong Zapata. Built with Salesforce LWR & Lightning Web Components.\n    </div>\n</div>"
               },
               "definition" : "community_builder:htmlEditor",
-              "id" : "b3dc5d52-d5d5-48a0-b1df-a126631924f7",
+              "id" : "529fe3c8-75ba-490d-b653-3673d440d276",
               "type" : "component"
             } ],
             "id" : "bd9bfd93-db49-47f7-b894-75a1d7530c87",
@@ -175,38 +175,6 @@
           } ],
           "definition" : "community_layout:section",
           "id" : "311f6ec9-ba22-41ed-8e9c-6e7337a73864",
-          "type" : "component"
-        }, {
-          "attributes" : {
-            "backgroundImageConfig" : "",
-            "backgroundImageOverlay" : "rgba(0,0,0,0)",
-            "componentSpacerSize" : "",
-            "layoutDirectionDesktop" : "row",
-            "layoutDirectionMobile" : "column",
-            "layoutDirectionTablet" : "column",
-            "maxContentWidth" : "",
-            "sectionColumnGutterWidth" : "",
-            "sectionConfig" : "{\"UUID\":\"7a0d9d85-1693-4d4a-95a4-c4f4f27f6d40\",\"columns\":[{\"UUID\":\"ca0d1a5a-cf17-4051-bc7f-16a2439b88ce\",\"columnName\":\"Column 1\",\"columnKey\":\"footerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}",
-            "sectionMinHeight" : "",
-            "sectionVerticalAlign" : "flex-start"
-          },
-          "children" : [ {
-            "children" : [ {
-              "attributes" : {
-                "imageInfos" : "",
-                "richTextValue" : "<div style=\"display: block; clear: both; width: 100%; background: #16325c; color: white; padding: 60px 20px 20px 20px; font-family: 'Segoe UI', sans-serif; border-radius: 20px 20px 0 0; margin-top: 50px;\">\n    \n    <div style=\"display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; max-width: 1200px; margin: 0 auto;\">\n        \n        <div>\n            <div style=\"background: white; color: #16325c; padding: 5px 12px; border-radius: 4px; font-weight: 800; font-size: 1.1rem; display: inline-block; margin-bottom: 15px;\">\n                EZ <span style=\"color: #00A1E0;\">/&gt;</span>\n            </div>\n            <p style=\"font-size: 0.9rem; line-height: 1.6; color: #cbd5e1;\">\n                Salesforce Developer specializing in custom LWC development, Apex architecture, and automated business processes.\n            </p>\n            <div style=\"margin-top: 15px; display: flex; align-items: center; gap: 8px;\">\n                <div style=\"width: 10px; height: 10px; background: #22c55e; border-radius: 50%;\"></div>\n                <span style=\"font-size: 0.8rem; color: #22c55e; font-weight: 600;\">Open for Opportunities</span>\n            </div>\n        </div>\n\n        <div>\n            <h4 style=\"color: #00A1E0; margin-bottom: 20px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;\">Navigation</h4>\n            <ul style=\"list-style: none; padding: 0; margin: 0;\">\n                <li style=\"margin-bottom: 10px;\"><a href=\"/\" style=\"color: white; text-decoration: none; font-size: 0.9rem;\">Home</a></li>\n                <li style=\"margin-bottom: 10px;\"><a href=\"/experience\" style=\"color: white; text-decoration: none; font-size: 0.9rem;\">Experience & Certs</a></li>\n                <li style=\"margin-bottom: 10px;\"><a href=\"/projects\" style=\"color: white; text-decoration: none; font-size: 0.9rem;\">Technical Projects</a></li>\n            </ul>\n        </div>\n\n        <div>\n            <h4 style=\"color: #00A1E0; margin-bottom: 20px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;\">Connect</h4>\n            <div style=\"margin-bottom: 12px; font-size: 0.9rem;\">\uD83D\uDCE9 <a href=\"mailto:zapatacong@gmail.com\" style=\"color: white; text-decoration: none; margin-left: 8px;\">zapatacong@gmail.com</a></div>\n            <div style=\"margin-bottom: 12px; font-size: 0.9rem;\">\uD83D\uDD17 <a href=\"https://linkedin.com/in/ernest-cong-zapata\" style=\"color: white; text-decoration: none; margin-left: 8px;\">LinkedIn Profile</a></div>\n            <div style=\"font-size: 0.9rem;\">\uD83D\uDCBB <a href=\"https://github.com/zapatacong\" style=\"color: white; text-decoration: none; margin-left: 8px;\">GitHub Repository</a></div>\n        </div>\n    </div>\n\n    <div style=\"margin-top: 60px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; font-size: 0.8rem; color: #94a3b8;\">\n        &copy; 2026 Ernest Cong Zapata. Built with Salesforce LWR & Lightning Web Components.\n    </div>\n</div>"
-              },
-              "definition" : "community_builder:htmlEditor",
-              "id" : "529fe3c8-75ba-490d-b653-3673d440d276",
-              "type" : "component"
-            } ],
-            "id" : "ca0d1a5a-cf17-4051-bc7f-16a2439b88ce",
-            "name" : "footerSection",
-            "title" : "Theme Footer",
-            "type" : "region"
-          } ],
-          "definition" : "community_layout:section",
-          "id" : "7a0d9d85-1693-4d4a-95a4-c4f4f27f6d40",
           "type" : "component"
         } ],
         "id" : "6e1b78b5-33a2-4451-93c7-9d59649d5306",
