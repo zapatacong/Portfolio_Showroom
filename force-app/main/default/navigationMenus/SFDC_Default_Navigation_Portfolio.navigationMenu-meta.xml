@@ -10,4 +10,11 @@
         <target>/projects</target>
         <type>InternalLink</type>
     </navigationMenuItem>
+    <navigationMenuItem>
+        <label>Experience &amp; Credentials</label>
+        <position>2</position>
+        <publiclyAvailable>false</publiclyAvailable>
+        <target>/credentials</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
 </NavigationMenu>
