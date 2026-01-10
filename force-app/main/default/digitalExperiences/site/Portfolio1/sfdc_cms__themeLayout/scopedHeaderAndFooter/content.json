@@ -154,6 +154,38 @@
             "layoutDirectionTablet" : "column",
             "maxContentWidth" : "",
             "sectionColumnGutterWidth" : "",
+            "sectionConfig" : "{\"UUID\":\"311f6ec9-ba22-41ed-8e9c-6e7337a73864\",\"columns\":[{\"UUID\":\"bd9bfd93-db49-47f7-b894-75a1d7530c87\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":[]}]}",
+            "sectionMinHeight" : "",
+            "sectionVerticalAlign" : "flex-start"
+          },
+          "children" : [ {
+            "children" : [ {
+              "attributes" : {
+                "imageInfos" : "",
+                "richTextValue" : "<div style=\"padding: 40px 30px; font-family: 'Segoe UI', Arial, sans-serif; background: white; border-radius: 12px; border: 1px solid #e2e8f0; margin-bottom: 25px;\">\n    <h2 style=\"color: #16325c; font-size: 1.8rem; margin: 0 0 30px 0;\">Professional Experience</h2>\n    \n    <div style=\"border-left: 3px solid #00A1E0; padding-left: 20px; margin-bottom: 30px;\">\n        <h3 style=\"margin: 0; color: #16325c;\">Salesforce Developer</h3>\n        <p style=\"margin: 5px 0; color: #0070d2; font-weight: bold;\">KeelWorks Foundation | Oct 2025 – Present</p>\n        <ul style=\"color: #3e3e3c; margin-top: 10px;\">\n            <li>Built an automated Recruitment ATS using Flow Builder.</li>\n            <li>Managed ALM using Salesforce CLI and GitHub.</li>\n        </ul>\n    </div>\n</div>"
+              },
+              "definition" : "community_builder:htmlEditor",
+              "id" : "b3dc5d52-d5d5-48a0-b1df-a126631924f7",
+              "type" : "component"
+            } ],
+            "id" : "bd9bfd93-db49-47f7-b894-75a1d7530c87",
+            "name" : "col1",
+            "title" : "Column 1",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "311f6ec9-ba22-41ed-8e9c-6e7337a73864",
+          "type" : "component"
+        }, {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "componentSpacerSize" : "",
+            "layoutDirectionDesktop" : "row",
+            "layoutDirectionMobile" : "column",
+            "layoutDirectionTablet" : "column",
+            "maxContentWidth" : "",
+            "sectionColumnGutterWidth" : "",
             "sectionConfig" : "{\"UUID\":\"7a0d9d85-1693-4d4a-95a4-c4f4f27f6d40\",\"columns\":[{\"UUID\":\"ca0d1a5a-cf17-4051-bc7f-16a2439b88ce\",\"columnName\":\"Column 1\",\"columnKey\":\"footerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}",
             "sectionMinHeight" : "",
             "sectionVerticalAlign" : "flex-start"
